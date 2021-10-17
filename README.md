@@ -58,7 +58,7 @@ Click WA logo to Join Support Group 👇
 Click PrinceRudhV2 logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://i.postimg.cc/yxKfcqGQ/PrinceRudh.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="PrinceRudh.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
