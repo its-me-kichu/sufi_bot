@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-ROCKY V2
+PrinceRudh V2
 */
 
 // Komutları burada tutacağız.
