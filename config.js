@@ -1,5 +1,5 @@
 /* Copyright (C) 2020  Yusuf Usta.
-re codded by anshad
+re codded by Princerudh
 */
 
 const { Sequelize } = require('sequelize');
@@ -20,13 +20,13 @@ module.exports = {
     SESSION: process.env.ASENA_SESSION === undefined ? '' : process.env.ASENA_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    AFN: process.env.ALL_CAPTION === undefined ? 'Made By Rocky' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'Made By PrinceRudh' : process.env.ALL_CAPTION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? 'true' : process.env.AUTO_STICKER,
-    PLK: process.env.OWNER_NAME === undefined ? 'Anshad Vfc' : process.env.OWNER_NAME,
+    PLK: process.env.OWNER_NAME === undefined ? 'Prince Rudh' : process.env.OWNER_NAME,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     BOT_PRESENCE: process.env.BOT_PRESENCE === undefined ? 'online' : process.env.BOT_PRESENCE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
@@ -34,7 +34,7 @@ module.exports = {
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://imgflip.com/gif/5nez8d' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://imgflip.com/gif/5nezjo' : process.env.GIF_BYE,
-    RASHI: process.env.LOGO_LINK === undefined ? 'https://i.ibb.co/8KWTjMn/20210917-093455.jpg' : process.env.LOGO_LINK,
+    RASHI: process.env.LOGO_LINK === undefined ? 'PrinceRudhV2.jpg' : process.env.LOGO_LINK,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
@@ -47,9 +47,9 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOTPLK: process.env.BOT_NAME === undefined ? '𝗥𝗼𝗰𝗸𝘆 𝗦𝗲𝗿' : process.env.BOT_NAME,
-    LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.postimg.cc/yxKfcqGQ/Anshad.jpg' : process.env.ALL_IMG,
-    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://instagram.com/ans.had?utm_medium=copy_link' : process.env.SOCIAL_MEDIA,
+    BOTPLK: process.env.BOT_NAME === undefined ? 'PrinceRudh' : process.env.BOT_NAME,
+    LOGOSK: process.env.ALL_IMG === undefined ? 'PrinceRudhV2.jpg' : process.env.ALL_IMG,
+    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://instagram.com/princerudh' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Hi Nanba 📢*' : process.env.TAG_HEADER,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
