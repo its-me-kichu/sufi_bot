@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+PrinceRudhV2+WA+Bot+repo;Created+by+PrinceRudh+vfc;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+PrinceRudhV2+WA+Bot+repo;Created+by+PrinceRudh;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -122,7 +122,7 @@ By establishing the PrinceRudhV2, you are deemed to have accepted these responsi
   [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) |  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) | [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) 
 ----|----|----
 [Princerudh](https://github.com/Princerudh)  | [Princerudh](https://github.com/Princerudh) | [Princerudh](https://github.com/Princerudh)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
