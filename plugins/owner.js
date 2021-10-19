@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     
     
    
-  r_text[0] = "PrinceRudhV2.jpg";
+  r_text[0] = "PrinceRudh.jpg";
     
     
     var i = Math.floor(1*Math.random())
