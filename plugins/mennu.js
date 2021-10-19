@@ -1,4 +1,4 @@
-/* codded by Princerudh
+/* codded by raashii
 reedited by Princerudh
 use this git under copyright
 dont change credit
