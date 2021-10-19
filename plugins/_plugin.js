@@ -107,4 +107,4 @@ Asena.addCommand({pattern: 'remove(?: |$)(.*)', fromMe: true, desc: Lang.REMOVE_
         });
     }
 
-}));
+});
