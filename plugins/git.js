@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://i.postimg.cc/yxKfcqGQ/Anshad.jpg";
+  r_text[0] = "PrinceRudhV2.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,36 +19,36 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭──────────────────╮
-   ᴀɴsʜᴀᴅ ᴠғᴄ
+   Prince Rudh
 ╭──────────────────╯
 │
 │
 │
 │
-│ ▢ *ᴏᴡɴᴇʀ* : ᴀɴsʜᴀᴅ
+│ ▢ *ᴏᴡɴᴇʀ* : Prince Rudh
 │
-│ ▢ *ɴᴜᴍʙᴇʀ* : wa.me/919995390942
+│ ▢ *ɴᴜᴍʙᴇʀ* : wa.me/919895339960
 │
-│ ▢ *ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/ans._had_?utm_medium=copy_link
+│ ▢ *ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/princerudh
 │
-│ ▢ *ʏᴛ* :https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w
+│ ▢ *ʏᴛ* :https://youtube.com/c/PrinceRudh
 │
-│ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/anshadat/Rocky
+│ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/Princerudh/PrinceRudhV2
 │
-│ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
+│ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/Princerudh/PrinceRudhV2/tree/master/uploads
 │
-│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/anshadat/Rocky/tree/master/uploads
+│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/Princerudh/PrinceRudhV2/tree/master/uploads
 │
 │
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│       ©919995390942
+│       ©919895339960
 │
 ╰──────────────────╮
 │ 
 │
-│   ❏ 𝘤𝘰𝘥𝘦𝘥 𝘣𝘺 *ᴀɴsʜᴀᴅ* ❏
+│   ❏ 𝘤𝘰𝘥𝘦𝘥 𝘣𝘺 *Prince Rudh* ❏
 ╰──────────────────╯
 `}) 
 
