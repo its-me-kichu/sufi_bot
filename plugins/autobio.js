@@ -1,4 +1,4 @@
-/* Copyright (C)  2020  anshad.
+/* Copyright (C)  2020  Princerudh.
  */
 
 const Raashii = require('../events');
