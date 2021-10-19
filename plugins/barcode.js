@@ -1,5 +1,5 @@
-/*coded by anshad-vfc
-https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w
+/*coded by Prince Rudh
+https://youtube.com/c/PrinceRudh
 */
 
 const Asena = require('../events');
