@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://github.com/Princerudh/PrinceRudhV2/blob/master/PrinceRudh.jpg";
+  r_text[0] = "https://i.postimg.cc/L4Ctzhvh/Prince-Rudh.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -33,11 +33,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 │
 │ ▢ *ʏᴛ* :https://youtube.com/c/PrinceRudh
 │
-│ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/Princerudh/PrinceRudhV2
+│ ▢ *ɢɪᴛʜᴜʙ* :https://github.com/Princerudh/PrinceRudh
 │
-│ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/Princerudh/PrinceRudhV2/tree/master/uploads
+│ ▢ *ᴀᴜᴅɪᴏ ᴄᴏᴍɴᴅs* :https://github.com/Princerudh/PrinceRudh/tree/master/uploads
 │
-│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/Princerudh/PrinceRudhV2/tree/master/uploads
+│ ▢ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍɴᴅs* :https://github.com/Princerudh/PrinceRudh/tree/master/uploads
 │
 │
 │
