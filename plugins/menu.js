@@ -1,5 +1,5 @@
 /* codded by raashii
-reedited by Princerudh
+reedited by hisham
 use this git under copyright
 dont change credit
 */
@@ -638,7 +638,7 @@ Hisham.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
         r_text[620] = "https://images.wallpaperscraft.com/image/smiley_emotions_minimalism_134124_1350x2400.jpg";
     
     var i = Math.floor(621*Math.random())
-    
+
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
@@ -669,7 +669,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : Prince Rudh
-│ ▢ *BOT* : PrinceRudhV2
+│ ▢ *BOT* : PrinceRudh
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 2.2.3
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 │ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
