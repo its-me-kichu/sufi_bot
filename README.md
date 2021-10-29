@@ -68,7 +68,7 @@ Click PrinceRudhV2 logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Princerudh/PrinceRudhV2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Princerudh/PrinceRudh.git)
      </div>
 <br>
 <br >
@@ -88,8 +88,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Princerudh/PrinceRudhV2
-$ cd PrinceRudhV2
+$ git clone https://github.com/Princerudh/PrinceRudh
+$ cd PrinceRudh
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -98,8 +98,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Princerudh/PrinceRudhV2
-$ cd PrinceRudhV2
+$ git clone https://github.com/Princerudh/PrinceRudh
+$ cd PrinceRudh
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -113,7 +113,7 @@ $ node bot.js
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, PrinceRudhV2 executives do not accept responsibility.
-By establishing the PrinceRudhV2, you are deemed to have accepted these responsibilities.
+By establishing the PrinceRudh, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
