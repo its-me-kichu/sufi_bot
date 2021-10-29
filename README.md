@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+PrinceRudhV2+WA+Bot+repo;Created+by+PrinceRudh;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+PrinceRudh+WA+Bot+repo;Created+by+PrinceRudh;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -12,7 +12,7 @@
 <a href="#"><img title="PrinceRudh" src="https://img.shields.io/badge/PrinceRudh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Princerudh"><img title="Author" src="https://img.shields.io/badge/Author-Princerudh/PrinceRudhV2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Princerudh"><img title="Author" src="https://img.shields.io/badge/Author-Princerudh/PrinceRudh?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
