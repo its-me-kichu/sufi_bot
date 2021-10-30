@@ -112,7 +112,7 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, PrinceRudhV2 executives do not accept responsibility.
+Absolutely, PrinceRudh executives do not accept responsibility.
 By establishing the PrinceRudh, you are deemed to have accepted these responsibilities.
 ```
 
