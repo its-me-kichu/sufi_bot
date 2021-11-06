@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/Princerudh">Princerudh</a> to mak
 
 ##
   <h3 align="center">📢 Support Group 1:</h3>
-<p align="center">
+<p align="center">d
 Click WA logo to Join Support Group 👇
     <br>
 <br>
@@ -66,7 +66,7 @@ Click PrinceRudhV2 logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Princerudh/PrinceRudh)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Princerudh/PrinceRudh.git)
      </div>
