@@ -384,7 +384,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*⚠️PrinceRudh ERROR FOUND!⚠️*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCQ3NYIDKT6-glPHTPya7b7w \n Report errors\njoin with +91 \n https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/PrinceRudh \n Report errors\njoin with +91 \n https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP``` ' 
                                     , MessageType.text);
                             }
                         }
