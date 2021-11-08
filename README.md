@@ -68,7 +68,7 @@ Click PrinceRudhV2 logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Princerudh/PrinceRudh.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PrinceRudh/PrinceRudh.git)
      </div>
 <br>
 <br >
