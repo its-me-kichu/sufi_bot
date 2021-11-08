@@ -1,4 +1,4 @@
-# **PrinceRudhV2** TERMS OF USAGE
+# **PrinceRudh** TERMS OF USAGE
 
 Last Updated: **GMT-9 4/10/2021**
 
