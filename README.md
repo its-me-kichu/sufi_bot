@@ -39,3 +39,105 @@ Project created by <a href="https://github.com/Princerudh">Princerudh</a> to mak
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Princerudh&show_icons=true&theme=dark&locale=en" alt="Princerudh" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Princerudh&theme=dark" alt="Princerudh" /></p>
+</p>
+
+
+##
+  <h3 align="center">📢 Support Group 1:</h3>
+<p align="center">d
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+</p>
+
+## 
+  <h3 align="center">📢 Support Group 2:</h3>
+<p align="center">
+Click PrinceRudhV2 logo to Join Support Group 2👇
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="PrinceRudh.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+</p>
+    
+## Setup
+<div align="center">
+
+  ### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Prince-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PrinceRudh/PrinceRudh.git)
+     </div>
+<br>
+<br >
+ 
+<div align="center">
+
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+ 
+ <div align="left">
+  
+  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+```bash <(curl -L https://t.ly/tHxh)```
+            
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/Princerudh/PrinceRudh
+$ cd PrinceRudh
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/Princerudh/PrinceRudh
+$ cd PrinceRudh
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
+
+
+### ⚠️ Warning! 
+```
+Due to Whatsapp bot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, PrinceRudh executives do not accept responsibility.
+By establishing the PrinceRudh, you are deemed to have accepted these responsibilities.
+```
+
+## Developers
+  <div align="center">
+    
+  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) |  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) | [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) 
+----|----|----
+[Princerudh](https://github.com/Princerudh)  | [Princerudh](https://github.com/Princerudh) | [Princerudh](https://github.com/Princerudh)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  </div>
+    
+
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+
+
+
+
+
+
+
+
