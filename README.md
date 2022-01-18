@@ -40,23 +40,7 @@ Project created by <a href="https://github.com/its-me-kichu">its-me-kichu</a> to
 </p>
 
 
-##
-  <h3 align="center">📢 Support 1:</h3>
-<p align="center">d
-Click WA logo to Support 👇
-    <br>
-<br>
-  <a href="https://http://wa.me/917510734295?text=Hi%20spirit%20.%20/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
-</p>
 
-## 
-  <h3 align="center">📢 Support 2:</h3>
-<p align="center">
-Click its-me-kichu logo to Support 2👇
-    <br>
-<br>
-  <a href="https://http://wa.me/918848067231?text=Hi%20spirit%20.%20/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="its-me-kichu.jpg" alt="kyrie.baran" height="200" width="200" /></a>
-</p>
     
 ## Setup
 <div align="center">
