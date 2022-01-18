@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="PrinceRudhV2.jpg" alt="JPG" width="250" height="200"/>
+<img src="not_sufi.jpg" alt="JPG" width="250" height="200"/>
 </p>
  <p align="center">
 <a href="#"><img title="PrinceRudh" src="https://img.shields.io/badge/PrinceRudh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
