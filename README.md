@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+PrinceRudh+WA+Bot+repo;Created+by+PrinceRudh;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+its-me-kichu+WA+Bot+repo;Created+by+its-me-kichu;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,14 +9,14 @@
 <img src="not_sufi.jpg" alt="JPG" width="250" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="PrinceRudh" src="https://img.shields.io/badge/PrinceRudh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="its-me-kichu" src="https://img.shields.io/badge/its-me-kichu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Princerudh"><img title="Author" src="https://img.shields.io/badge/Author-Princerudh/PrinceRudh?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/its-me-kichu"><img title="Author" src="https://img.shields.io/badge/Author-its-me-kichu/its-me-kichu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Princerudh">Princerudh</a> to make it public
+Project created by <a href="https://github.com/its-me-kichu">its-me-kichu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -27,38 +27,35 @@ Project created by <a href="https://github.com/Princerudh">Princerudh</a> to mak
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/princerudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_not_sufi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtube.com/c/PrinceRudh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
+
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Princerudh&show_icons=true&theme=dark&locale=en" alt="Princerudh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-me-kichu&show_icons=true&theme=dark&locale=en" alt="its-me-kichu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Princerudh&theme=dark" alt="Princerudh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-kichu&theme=dark" alt="its-me-kichu" /></p>
 </p>
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
+  <h3 align="center">📢 Support 1:</h3>
 <p align="center">d
-Click WA logo to Join Support Group 👇
+Click WA logo to Support 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://http://wa.me/917510734295?text=Hi%20spirit%20.%20/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
+  <h3 align="center">📢 Support 2:</h3>
 <p align="center">
-Click PrinceRudhV2 logo to Join Support Group 2👇
+Click its-me-kichu logo to Support 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="PrinceRudh.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://http://wa.me/918848067231?text=Hi%20spirit%20.%20/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="its-me-kichu.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -66,9 +63,9 @@ Click PrinceRudhV2 logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Prince-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@its-me-kichu/Prince-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PrinceRudh/PrinceRudh.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/its-me-kichu/its-me-kichu.git)
      </div>
 <br>
 <br >
@@ -88,8 +85,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Princerudh/PrinceRudh
-$ cd PrinceRudh
+$ git clone https://github.com/its-me-kichu/its-me-kichu
+$ cd its-me-kichu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -98,8 +95,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Princerudh/PrinceRudh
-$ cd PrinceRudh
+$ git clone https://github.com/its-me-kichu/its-me-kichu
+$ cd its-me-kichu
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,16 +109,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, PrinceRudh executives do not accept responsibility.
-By establishing the PrinceRudh, you are deemed to have accepted these responsibilities.
+Absolutely, its-me-kichu executives do not accept responsibility.
+By establishing the its-me-kichu, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) |  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) | [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) 
+  [![its-me-kichu](https://github.com/its-me-kichu.png?size=100)](https://github.com/its-me-kichu) |  [![its-me-kichu](https://github.com/its-me-kichu.png?size=100)](https://github.com/its-me-kichu) | [![its-me-kichu](https://github.com/its-me-kichu.png?size=100)](https://github.com/its-me-kichu) 
 ----|----|----
-[Princerudh](https://github.com/Princerudh)  | [Princerudh](https://github.com/Princerudh) | [Princerudh](https://github.com/Princerudh)
+[its-me-kichu](https://github.com/its-me-kichu)  | [its-me-kichu](https://github.com/its-me-kichu) | [its-me-kichu](https://github.com/its-me-kichu)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
