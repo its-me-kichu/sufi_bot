@@ -1,9 +1,9 @@
 {
-    "name": "PrinceRudh public bot",
-    "description": "PrinceRudh project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.postimg.cc/L4Ctzhvh/Prince-Rudh.jpg",
+    "name": "ησт sυғι",
+    "description": "sufi_bot project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "https://i.postimg.cc/L4Ctzhvh/not_sufi.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Princerudh/PrinceRudh",
+    "repository": "https://github.com/sufi_bot/sufi_bot",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
@@ -119,10 +119,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏༄PʀɪɴᴄEʳᶹᵈʰ࿐⤎╾━━━•"
+            "value": "•━━━━╼⤏༄ησт sυғι࿐⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "PrinceRudh Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "sufi_bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -142,7 +142,9 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "*എന്റേത് അല്ലെന്നറിയാം...🦋 എന്റേത് ആകില്ലെന്നുമറിയാം...🦋 എന്നിരുന്നാലും,...എന്റേത് മാത്രമാണെന്ന് വിശ്വസിക്കുവാനാണ് എനിക്കിഷ്ടം...🦋❣️༄PʀɪɴᴄEʳᶹᵈʰ࿐🧚‍♂️*"
+            "value": "❲ 𝙸 𝙰𝙼 𝙰𝙻𝙸𝚅𝙴 🐦🍭 ❳
+➽ᴍʏ ɪɴsᴛᴀ⟼ https://instagram.com/_not_sufi_
+
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
